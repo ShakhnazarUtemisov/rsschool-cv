@@ -3,8 +3,7 @@
 ## Contacts ##
 
 * Location: Nukus, Uzbekistan
-* Email: shakhnazarutemisov@mail.ru
-* Telegram: @shknzr
+* Email: sknzrabs123@mail.ru
 
 ## About me ##
 
