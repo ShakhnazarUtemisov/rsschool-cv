@@ -1,10 +1,10 @@
 # Shakhnazar Utemisov
 
 ## Contacts ##
-* 
-    * Location: Nukus, Uzbekistan
-    * Email: shakhnazarutemisov@mail.ru
-    * Telegramm: @shknzr
+
+* Location: Nukus, Uzbekistan
+* Email: shakhnazarutemisov@mail.ru
+* Telegram: @shknzr
 
 ## About me ##
 
