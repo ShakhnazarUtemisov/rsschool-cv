@@ -12,11 +12,10 @@ I have personal soft skills with which I can communicate and find common languag
 
 ## Skills ##
 
-* 
-    * HTML
-    * CSS/SASS (Bootstrap)
-    * JavaScript
-    * Figma
+* HTML
+* CSS/SASS (Bootstrap)
+* JavaScript
+* Figma
 
 
 ## Code example ##
@@ -33,8 +32,7 @@ I had little experience in to do list development (vanilla JavaScript)
 
 ## Education ##
 
-*   
-    * University: Nukus branch of Tashkent University of Information Technology
+* University: Nukus branch of Tashkent University of Information Technology
 
 ## English ##
 
