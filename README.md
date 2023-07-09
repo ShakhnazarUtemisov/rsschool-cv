@@ -1,1 +1,1 @@
-https://ShakhnazarUtemisov.github.io/rsschool-cv/index.html 
+https://ShakhnazarUtemisov.github.io/rsschool-cv-html/index.html 
