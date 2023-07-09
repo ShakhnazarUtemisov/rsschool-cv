@@ -147,3 +147,13 @@ h1::before{
     height: 80px;
     background-color: rgb(214, 172, 67);
 }
+
+.footer-bg .container{
+    display: flex;
+    justify-content: center;
+}
+
+a img{
+    width: 100px;
+    height: 40px;
+}
